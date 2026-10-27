@@ -14,6 +14,7 @@ pacman -Syu --noconfirm --needed \
 	freetype2         \
 	git               \
 	glew              \
+	libnotify         \
 	libogg            \
 	libpng            \
 	openssl           \
